@@ -1,5 +1,5 @@
 .bg-image {
-    background-image: url(../BloomCredit/img/bg-img.png);
+    background-image: url(img/bg-img.png);
     background-repeat: no-repeat;
   }
 
@@ -44,6 +44,6 @@
 }
 
 .bg-img {
-    background-image: url(../BloomCredit/img/Feature.single.section.png);
+    background-image: url(img/Feature.single.section.png);
     background-repeat: no-repeat;
   }
