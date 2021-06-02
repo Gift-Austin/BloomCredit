@@ -1,0 +1,49 @@
+.bg-image {
+    background-image: url(../BloomCredit/img/bg-img.png);
+    background-repeat: no-repeat;
+  }
+
+.nav-link{
+    color: #FFF;
+}
+
+.btn-outline-white{
+    border: 1px solid #FFF;
+}
+
+.ps-6 {
+    padding-left: 7rem;
+}
+
+.px-6 {
+    padding: 7rem;
+}
+
+.btn-primary {
+    background-color: #EE85B5 !important;
+    border: none;
+}
+
+.text-primary {
+    color: #253C78 !important;
+}
+
+.text-secondary {
+    color: #4F5566 !important;
+}
+
+.bg-primary {
+    background-color: #F6F9FF !important;
+}
+
+.pe-6 {
+    padding-right: 7rem !important;
+}
+.text-tertiary {
+    color: #AD5BB4 !important;
+}
+
+.bg-img {
+    background-image: url(../BloomCredit/img/Feature.single.section.png);
+    background-repeat: no-repeat;
+  }
